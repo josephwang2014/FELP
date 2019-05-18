@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3860fba8-4d90-426f-952c-1bc4de9ba870" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solobattleship/battleship.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bubbles/PhraseOMatic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bubbles/bubbles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bubbles/bubbles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solobattleship/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solobattleship/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solobattleship/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solobattleship/.idea/solobattleship.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solobattleship/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solobattleship/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solobattleship/battleship.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solobattleship/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/behavior.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,12 +26,53 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solobattleship/battleship.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="230">
               <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bubbles/bubbles.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!block;n#printAndGetHighScore#0" />
+                <element signature="n#!!block;n#getBestResults#0" />
+                <element signature="n#!!block;n#getMostCostEffectiveSolution#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bubbles/bubbles.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bubbles/PhraseOMatic.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solobattleship/battleship.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -31,9 +82,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>let</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>var</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -44,6 +104,11 @@
         <option value="$PROJECT_DIR$/test/sum.html" />
         <option value="$PROJECT_DIR$/test/icecream.html" />
         <option value="$PROJECT_DIR$/solobattleship/battleship.html" />
+        <option value="$PROJECT_DIR$/test/test1.js" />
+        <option value="$PROJECT_DIR$/Bubbles/PhraseOMatic.html" />
+        <option value="$PROJECT_DIR$/Bubbles/bubbles.html" />
+        <option value="$PROJECT_DIR$/solobattleship/battleship.js" />
+        <option value="$PROJECT_DIR$/Bubbles/bubbles.js" />
       </list>
     </option>
   </component>
@@ -70,7 +135,7 @@
             <path>
               <item name="Head First JavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="Head First JavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="solobattleship" type="462c0819:PsiDirectoryNode" />
+              <item name="Bubbles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -103,12 +168,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.bubbles.html">
+    <configuration name="PhraseOMatic.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Head First JavaScript/Bubbles/PhraseOMatic.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="bubbles.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Head First JavaScript/Bubbles/bubbles.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="icecream.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Head First JavaScript/test/icecream.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.bubbles.html" />
+        <item itemvalue="JavaScript Debug.PhraseOMatic.html" />
         <item itemvalue="JavaScript Debug.icecream.html" />
       </list>
     </recent_temporary>
@@ -124,23 +197,21 @@
       <option name="presentableId" value="Default" />
       <updated>1558062371718</updated>
       <workItem from="1558062374656" duration="4670000" />
+      <workItem from="1558160101061" duration="8499000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4670000" />
+    <option name="totallyTimeSpent" value="13169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="调试" visible="true" weight="0.32924107" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -148,6 +219,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -157,24 +232,52 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/behavior.html">
+    <entry file="file://$PROJECT_DIR$/test/behavior.html" />
+    <entry file="file://$PROJECT_DIR$/test/icecream.html" />
+    <entry file="file://$PROJECT_DIR$/test/test1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="138">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/icecream.html">
+    <entry file="file://$PROJECT_DIR$/Bubbles/PhraseOMatic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        <state relative-caret-position="368">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solobattleship/battleship.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bubbles/bubbles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solobattleship/battleship.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="230">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bubbles/bubbles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#printAndGetHighScore#0" />
+            <element signature="n#!!block;n#getBestResults#0" />
+            <element signature="n#!!block;n#getMostCostEffectiveSolution#0" />
+          </folding>
         </state>
       </provider>
     </entry>
