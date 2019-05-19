@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3860fba8-4d90-426f-952c-1bc4de9ba870" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bubbles/PhraseOMatic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bubbles/bubbles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bubbles/bubbles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solobattleship/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solobattleship/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solobattleship/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solobattleship/.idea/solobattleship.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solobattleship/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solobattleship/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solobattleship/battleship.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solobattleship/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects/Car.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects/prequal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects/va.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,21 +23,25 @@
         <entry file="file://$PROJECT_DIR$/solobattleship/battleship.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bubbles/bubbles.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!block;n#printAndGetHighScore#0" />
-                <element signature="n#!!block;n#getBestResults#0" />
-                <element signature="n#!!block;n#getMostCostEffectiveSolution#0" />
-              </folding>
+            <state relative-caret-position="230">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Objects/va.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -63,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/Bubbles/PhraseOMatic.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -71,8 +67,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solobattleship/battleship.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Objects/Car.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Objects/prequal.html">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -109,10 +123,13 @@
         <option value="$PROJECT_DIR$/Bubbles/bubbles.html" />
         <option value="$PROJECT_DIR$/solobattleship/battleship.js" />
         <option value="$PROJECT_DIR$/Bubbles/bubbles.js" />
+        <option value="$PROJECT_DIR$/Objects/Car.js" />
+        <option value="$PROJECT_DIR$/Objects/va.html" />
+        <option value="$PROJECT_DIR$/Objects/prequal.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="2240" />
     <option name="y" value="185" />
     <option name="width" value="1440" />
@@ -124,7 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,12 +151,13 @@
             <path>
               <item name="Head First JavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="Head First JavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="Bubbles" type="462c0819:PsiDirectoryNode" />
+              <item name="Objects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,6 +172,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,21 +186,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.bubbles.html">
+  <component name="RunManager" selected="JavaScript Debug.va.html">
     <configuration name="PhraseOMatic.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Head First JavaScript/Bubbles/PhraseOMatic.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="bubbles.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Head First JavaScript/Bubbles/bubbles.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="icecream.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Head First JavaScript/test/icecream.html" useBuiltInWebServerPort="true">
+    <configuration name="prequal.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Head First JavaScript/Objects/prequal.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="va.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Head First JavaScript/Objects/va.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Car.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Objects/Car.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.va.html" />
         <item itemvalue="JavaScript Debug.bubbles.html" />
+        <item itemvalue="JavaScript Debug.prequal.html" />
+        <item itemvalue="Node.js.Car.js" />
         <item itemvalue="JavaScript Debug.PhraseOMatic.html" />
-        <item itemvalue="JavaScript Debug.icecream.html" />
       </list>
     </recent_temporary>
   </component>
@@ -197,21 +223,21 @@
       <option name="presentableId" value="Default" />
       <updated>1558062371718</updated>
       <workItem from="1558062374656" duration="4670000" />
-      <workItem from="1558160101061" duration="8499000" />
+      <workItem from="1558160101061" duration="8716000" />
+      <workItem from="1558237769339" duration="9412000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13169000" />
+    <option name="totallyTimeSpent" value="22798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="调试" visible="true" weight="0.32924107" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -223,6 +249,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="调试" order="11" visible="true" weight="0.32887402" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -234,24 +261,33 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/behavior.html" />
     <entry file="file://$PROJECT_DIR$/test/icecream.html" />
-    <entry file="file://$PROJECT_DIR$/test/test1.js">
+    <entry file="file://$PROJECT_DIR$/test/test1.js" />
+    <entry file="file://$PROJECT_DIR$/solobattleship/battleship.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="9" />
+        <state relative-caret-position="230">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bubbles/PhraseOMatic.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solobattleship/debug.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solobattleship/battleship.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="161">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -262,22 +298,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solobattleship/battleship.html">
+    <entry file="file://$PROJECT_DIR$/Objects/Car.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="345">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects/va.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bubbles/bubbles.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!block;n#printAndGetHighScore#0" />
-            <element signature="n#!!block;n#getBestResults#0" />
-            <element signature="n#!!block;n#getMostCostEffectiveSolution#0" />
-          </folding>
+        <state relative-caret-position="230">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects/prequal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
     </entry>
